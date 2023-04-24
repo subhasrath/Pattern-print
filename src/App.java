@@ -11,5 +11,6 @@ public class App {
         System.out.print(b[j]);
        }
        System.out.println();
+       System.out.println();
     }
 }
